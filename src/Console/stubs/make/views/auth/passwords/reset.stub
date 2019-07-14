@@ -1,0 +1,1 @@
+@extends('metronic3::passwords.reset')
